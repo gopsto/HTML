@@ -1,0 +1,41 @@
+﻿ 
+
+
+	
+     
+
+
+
+<!--Стили элементов для корзины-->
+<link href="https://lk.easynetshop.ru/frontend/v5/ens-ab4a2bcc.css" rel="stylesheet">
+   <body>
+	 <div id="test"> MyStilist	 </div>
+   </body
+   
+</html>
+ <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	  <!--Готовый скрипт корзины-->
+<script defer src="https://lk.easynetshop.ru/frontend/v5/ens-ab4a2bcc.js"></script>
+
+
+
+
+начала сайта {сss код body{
+
+#test {
+	transform:rotate(-0deg);
+	
+   background-color:#32a852;
+   color:#6e005d;
+   padding: 15px;
+   margin: 15px;
+   border: 7px solid #750000;
+   border-radius: 100px;
+   opacity:0.9;
+   box-shadow: 10px 10x 10px #45046e;
+   display:block;
+   text-align:center;
+}
+
+
+
